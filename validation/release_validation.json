@@ -1,0 +1,100 @@
+{
+  "release": "forecasting-final-release-1.2",
+  "status": "COMPLETED",
+  "all_checks_passed": true,
+  "repository_cleanup": {
+    "unused_earlier_physical_comparison_removed": true,
+    "verified_outputs_folder": "verified_outputs",
+    "readme_updated": true,
+    "source_and_archive_stage_identifiers_remaining": 0,
+    "manifest_entries": 312
+  },
+  "full_release_reproduction": {
+    "status": "COMPLETED",
+    "execution_mode": "REPRODUCE_RELEASE",
+    "interface_language": "en",
+    "package_version": "forecasting-final-release-1.2",
+    "same_verified_release_results": true,
+    "elapsed_seconds": 15.538743825999973,
+    "checks": 3036,
+    "all_checks_passed": true,
+    "retrained_LSTM_LightGBM_TFT": false,
+    "weights_recalculated": true,
+    "probability_selection_recalculated": true,
+    "monte_carlo_generated": true,
+    "physical_components_recalculated": true,
+    "scenarios_per_country": 23,
+    "countries": [
+      "spain",
+      "france"
+    ],
+    "manuscript_figure_count": 13,
+    "data_figures_regenerated": 11,
+    "conceptual_illustrations_preserved": 2,
+    "conditional_scenarios_not_validated_20_year_predictions": true,
+    "source_date": "2026-09-21",
+    "numerical_tolerance_MW": 1e-06,
+    "complete_utc": "2026-10-16T15:05:54.457798+00:00"
+  },
+  "comparison_with_supplied_package": {
+    "shared_csv_files_numerically_checked": 715,
+    "maximum_numeric_difference": 0.0,
+    "simulation_archives_checked": 10,
+    "simulation_arrays_checked": 30,
+    "all_simulation_arrays_equal": true,
+    "intentional_removed_outputs": [
+      "spain/correction_ladder.csv",
+      "france/correction_ladder.csv"
+    ],
+    "renamed_outputs": {
+      "statistical_benchmark_fit_diagnostics_original.csv": "statistical_benchmark_fit_diagnostics_archived.csv"
+    }
+  },
+  "clean_zip_execution": {
+    "path_with_spaces_and_non_ascii": true,
+    "different_working_directory": true,
+    "status": "COMPLETED",
+    "all_checks_passed": true,
+    "csv_files_exactly_equal_to_first_clean_run": 717,
+    "maximum_numeric_difference": 0.0,
+    "simulation_archives_checked": 10,
+    "simulation_arrays_exactly_equal": 30
+  },
+  "observed_demand_values_preserved": 264,
+  "new_neural_training_performed": false,
+  "matlab_execution_performed": false,
+  "matlab_note": "The MATLAB source was retained and its input schema is produced by the completed Python run; MATLAB was not executed in this environment.",
+  "tested_environment": {
+    "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+    "platform": "Linux-6.18.44-x86_64-with-glibc2.41",
+    "packages": {
+      "numpy": "2.3.5",
+      "pandas": "2.2.3",
+      "scipy": "1.17.0",
+      "scikit-learn": "1.8.0",
+      "statsmodels": "0.14.6",
+      "matplotlib": "3.10.8",
+      "torch": "2.10.0+cpu",
+      "lightgbm": "4.6.0",
+      "lightning": "2.6.5",
+      "pytorch-forecasting": "not_installed"
+    }
+  },
+  "code_sha256": {
+    "run_forecasting_final.py": "a4bf92f98a55a0023a8469b5cafbe8094e15fc2d8d489423186a88a314de2bce",
+    "matlab/generate_forecasting_figures.m": "cecace31f05a86f10875f4669c87362de2b11f354ad5857c2302c938827e9805",
+    "README.txt": "a556477a575eda16758e9afa8a901f5103ec6dad175709d0aab76884f5d18372",
+    "extended_analysis/run_extended_analysis.py": "ef6afcea6690296f5349eac45db1b455def15f6b6e18a5195c0bcf8f26556994",
+    "extended_analysis/build_manuscript_figures.py": "2520d692c283dab147cbda70428fe7f4829d35bf39cb2984553b1544a008733a"
+  },
+  "repository_additions": {
+    "license": "MIT",
+    "citation_metadata": [
+      "CITATION.cff",
+      ".zenodo.json"
+    ],
+    "extended_analysis_validated_outputs": "extended_analysis/validated_outputs",
+    "extended_analysis_long_horizon_retraining": true,
+    "manuscript_figure_folder": "manuscript_figures"
+  }
+}

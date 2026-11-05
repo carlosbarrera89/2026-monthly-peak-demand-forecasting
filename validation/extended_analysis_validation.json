@@ -1,0 +1,55 @@
+{
+  "status": "PASSED",
+  "repository_snapshot": "v1.0.0",
+  "main_experiment_modified": false,
+  "main_script_sha256": "a4bf92f98a55a0023a8469b5cafbe8094e15fc2d8d489423186a88a314de2bce",
+  "extended_analysis_script_sha256": "ef6afcea6690296f5349eac45db1b455def15f6b6e18a5195c0bcf8f26556994",
+  "manuscript_figure_builder_sha256": "2520d692c283dab147cbda70428fe7f4829d35bf39cb2984553b1544a008733a",
+  "extended_analysis_status": {
+    "status": "COMPLETED",
+    "elapsed_seconds": 166.2029999999795,
+    "long_horizon_retraining": true,
+    "main_experiment_modified": false,
+    "archived_predictions_reused": true,
+    "output_folder": "extended_analysis/validated_outputs",
+    "n_tables": 17,
+    "n_figures_png": 16,
+    "n_figures_pdf": 16,
+    "source_run_folder": "run_20261104_155407_570198",
+    "repository_snapshot": "v1.0.0"
+  },
+  "extended_analysis_tables": 17,
+  "extended_analysis_png_figures": 16,
+  "extended_analysis_pdf_figures": 16,
+  "extended_analysis_logs": 8,
+  "validated_output_folder": "extended_analysis/validated_outputs",
+  "composite_figure_files": [
+    "manuscript_figures/extended_validation.png",
+    "manuscript_figures/extended_validation.pdf",
+    "manuscript_figures/uncertainty_diagnostics.png",
+    "manuscript_figures/uncertainty_diagnostics.pdf"
+  ],
+  "notes": [
+    "The completed extended run reuses the archived reference predictions and leaves the main experiment unchanged.",
+    "The long-horizon route fits the same LSTM, LightGBM and TFT specifications at later historical origins.",
+    "Absolute user paths in retained library logs were replaced with <CONDA_ENV>; warning text was otherwise preserved."
+  ],
+  "errors": [],
+  "local_packaging_checks": {
+    "main_input_check_status": "INPUT_CHECKS_COMPLETED",
+    "main_input_check_count": 78,
+    "archived_extended_analysis_rerun_status": "COMPLETED",
+    "archived_extended_analysis_tables": 15,
+    "archived_extended_analysis_png_figures": 14,
+    "archived_extended_analysis_pdf_figures": 14,
+    "common_table_numeric_maximum_difference_MW": 2.9103830456733704e-11,
+    "common_table_text_mismatches": 0
+  },
+  "final_zip_test": {
+    "extracted_path_included_spaces_and_non_ascii": true,
+    "main_input_check_status": "INPUT_CHECKS_COMPLETED",
+    "main_input_check_count": 78,
+    "archived_extended_analysis_status": "COMPLETED",
+    "composite_figure_build_status": "COMPLETED"
+  }
+}
