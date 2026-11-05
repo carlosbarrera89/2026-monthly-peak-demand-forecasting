@@ -1,0 +1,6 @@
+country,driver,origin,method,last_observed_year,n_observed_years,n_fit_years,assumed_release_last,index_base_year,reference_lag_years,inner_validation_RMSE,last_observed_month,max_calendar_horizon,as_of,availability_policy
+FRANCE,gdp_const2015_usd,2018-12-01,TheilSen_log_trend_max15y,2017.0,18.0,15.0,2018-12-31,2015.0,1.0,,,,2018-12-31,assumed_conservative_release_dates_single_revised_snapshot
+FRANCE,population,2018-12-01,TheilSen_log_trend_max15y,2017.0,18.0,15.0,2018-12-31,2015.0,1.0,,,,2018-12-31,assumed_conservative_release_dates_single_revised_snapshot
+FRANCE,ipi,2018-12-01,ipi_damped_ets,,,,2018-12-31,,,3.0901864434489466,2018-09-01,27.0,2018-12-31,assumed_conservative_release_dates_single_revised_snapshot
+FRANCE,hdd,2018-12-01,past10y_monthly_median_climatology,,,,2018-12-31,,,,2018-09-01,,2018-12-31,assumed_conservative_release_dates_single_revised_snapshot
+FRANCE,cdd,2018-12-01,past10y_monthly_median_climatology,,,,2018-12-31,,,,2018-09-01,,2018-12-31,assumed_conservative_release_dates_single_revised_snapshot

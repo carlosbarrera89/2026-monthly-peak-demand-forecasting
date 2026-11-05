@@ -1,0 +1,4 @@
+country,model,RMSE_full_path_MW,weight,n_origin_horizon_pairs,n_unique_target_months,n_origins,target,weights_source
+SPAIN,LSTM,2479.2765233741775,0.35267523791478034,120,36,5,DIRECT_LEVEL,code_inverse_RMSE_full_h1_to_h24
+SPAIN,LGBM,2778.0623730187194,0.3147443506775525,120,36,5,DIRECT_LEVEL,code_inverse_RMSE_full_h1_to_h24
+SPAIN,TFT,2629.076781872547,0.3325804114076672,120,36,5,DIRECT_LEVEL,code_inverse_RMSE_full_h1_to_h24

@@ -1,0 +1,9 @@
+{
+  "country": "SPAIN",
+  "mean_acf_lag1": 0.2881727154047471,
+  "max_abs_mean_acf1_6": 0.30554703833386554,
+  "fraction_ljungbox_significant": 0.14814814814814814,
+  "dependence_detected": true,
+  "IID_excluded": true,
+  "tests_not_independent": true
+}

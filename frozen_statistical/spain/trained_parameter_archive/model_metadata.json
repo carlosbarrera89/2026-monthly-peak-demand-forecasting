@@ -1,0 +1,110 @@
+{
+  "country": "SPAIN",
+  "features": [
+    "mon_sin",
+    "mon_cos",
+    "trend",
+    "gdp_idx",
+    "population_idx",
+    "ipi",
+    "hdd",
+    "cdd"
+  ],
+  "config": {
+    "countries": [
+      "SPAIN",
+      "FRANCE"
+    ],
+    "forecast_years": 20,
+    "minimum_history_months": 120,
+    "lookback": 24,
+    "tabular_lags": 12,
+    "evaluation_horizon": 24,
+    "terminal_holdout_months": 24,
+    "seed": 42,
+    "num_threads": 1,
+    "device": "cpu",
+    "lstm_hidden": 64,
+    "lstm_layers": 1,
+    "lstm_dropout": 0.1,
+    "lstm_epochs": 150,
+    "lstm_batch_size": 16,
+    "lstm_learning_rate": 0.001,
+    "lgbm_rounds": 800,
+    "lgbm_num_leaves": 31,
+    "lgbm_min_data_in_leaf": 10,
+    "lgbm_learning_rate": 0.05,
+    "tft_epochs": 20,
+    "tft_batch_size": 32,
+    "tft_hidden": 16,
+    "tft_attention_heads": 2,
+    "tft_hidden_continuous": 16,
+    "tft_dropout": 0.1,
+    "tft_learning_rate": 0.001,
+    "annual_reference_lag_years": 1,
+    "annual_release_year_end_offset": 1,
+    "monthly_release_lag_months": 3,
+    "macro_trend_years": 15,
+    "climatology_years": 10,
+    "mc_tune_simulations": 1500,
+    "mc_final_simulations": 5000,
+    "mc_blocks": [
+      1,
+      3,
+      6,
+      12
+    ],
+    "mc_scale_min": 0.5,
+    "mc_scale_max": 2.5,
+    "mc_scale_step": 0.05,
+    "nominal_coverage": 0.9,
+    "coverage_tolerance": 0.03,
+    "dependence_acf_threshold": 0.3,
+    "dependence_lb_fraction": 0.5,
+    "save_figures": true,
+    "save_model_parameters": true,
+    "show_final_figures": true,
+    "resume_completed_origins": true
+  },
+  "scalers": {
+    "historical_demand": {
+      "mean": [
+        35957.18939393939
+      ],
+      "scale": [
+        2677.609147062537
+      ]
+    },
+    "covariates": {
+      "mean": [
+        1.3457248783335231e-17,
+        -5.0464682937507114e-17,
+        5.458333333333333,
+        106.55175267499312,
+        101.75430977648827,
+        99.67067632925192,
+        138.2875378787879,
+        25.013787878787877
+      ],
+      "scale": [
+        0.7071067811865476,
+        0.7071067811865476,
+        3.175335357033904,
+        6.635487236551396,
+        1.6860609603329835,
+        4.894747699679091,
+        123.588278385754,
+        41.79643435350827
+      ]
+    },
+    "target": {
+      "mean": [
+        35763.305555555555
+      ],
+      "scale": [
+        2718.6657384416612
+      ]
+    }
+  },
+  "note": "Parameter snapshots, not a separate executable. Data + code + seed reproduce training."
+}

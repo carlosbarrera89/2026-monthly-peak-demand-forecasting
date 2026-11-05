@@ -1,0 +1,6 @@
+country,driver,origin,method,last_observed_year,n_observed_years,n_fit_years,assumed_release_last,index_base_year,reference_lag_years,inner_validation_RMSE,last_observed_month,max_calendar_horizon,as_of,availability_policy
+SPAIN,gdp_const2015_usd,2021-08-01,TheilSen_log_trend_max15y,2019.0,20.0,15.0,2020-12-31,2015.0,1.0,,,,2021-08-31,assumed_conservative_release_dates_single_revised_snapshot
+SPAIN,population,2021-08-01,TheilSen_log_trend_max15y,2019.0,20.0,15.0,2020-12-31,2015.0,1.0,,,,2021-08-31,assumed_conservative_release_dates_single_revised_snapshot
+SPAIN,ipi,2021-08-01,seasonal_repetition,,,,2021-08-31,,,11.329570453758018,2021-05-01,27.0,2021-08-31,assumed_conservative_release_dates_single_revised_snapshot
+SPAIN,hdd,2021-08-01,past10y_monthly_median_climatology,,,,2021-08-31,,,,2021-05-01,,2021-08-31,assumed_conservative_release_dates_single_revised_snapshot
+SPAIN,cdd,2021-08-01,past10y_monthly_median_climatology,,,,2021-08-31,,,,2021-05-01,,2021-08-31,assumed_conservative_release_dates_single_revised_snapshot

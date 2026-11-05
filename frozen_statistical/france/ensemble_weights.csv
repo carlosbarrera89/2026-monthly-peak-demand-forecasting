@@ -1,0 +1,4 @@
+country,model,RMSE_full_path_MW,weight,n_origin_horizon_pairs,n_unique_target_months,n_origins,target,weights_source
+FRANCE,LSTM,5886.425527490657,0.35290158566099056,120,36,5,DIRECT_LEVEL,code_inverse_RMSE_full_h1_to_h24
+FRANCE,LGBM,8608.766096319829,0.24130390804958973,120,36,5,DIRECT_LEVEL,code_inverse_RMSE_full_h1_to_h24
+FRANCE,TFT,5119.164676530142,0.4057945062894196,120,36,5,DIRECT_LEVEL,code_inverse_RMSE_full_h1_to_h24

@@ -1,0 +1,9 @@
+{
+  "country": "FRANCE",
+  "mean_acf_lag1": 0.29782878787048467,
+  "max_abs_mean_acf1_6": 0.29782878787048467,
+  "fraction_ljungbox_significant": 0.07407407407407407,
+  "dependence_detected": false,
+  "IID_excluded": false,
+  "tests_not_independent": true
+}

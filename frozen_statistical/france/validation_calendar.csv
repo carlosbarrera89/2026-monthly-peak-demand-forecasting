@@ -1,0 +1,11 @@
+phase,origin,train_n_months,supervised_n,target_start,target_end,n_horizons,uses_for_selection,selection_history,baseline_role
+weight_calibration,2018-06-01,42,18,2018-07-01,2020-06-01,24,True,True,weight_calibration
+weight_calibration,2018-09-01,45,21,2018-10-01,2020-09-01,24,True,True,weight_calibration
+weight_calibration,2018-12-01,48,24,2019-01-01,2020-12-01,24,True,True,weight_calibration
+weight_calibration,2019-03-01,51,27,2019-04-01,2021-03-01,24,True,True,weight_calibration
+weight_calibration,2019-06-01,54,30,2019-07-01,2021-06-01,24,True,True,weight_calibration
+probability_tuning,2021-06-01,78,54,2021-07-01,2023-06-01,24,False,True,prequential_audit_no_hyperparameter_selection
+probability_tuning,2021-08-01,80,56,2021-09-01,2023-08-01,24,False,True,prequential_audit_no_hyperparameter_selection
+probability_tuning,2021-10-01,82,58,2021-11-01,2023-10-01,24,False,True,prequential_audit_no_hyperparameter_selection
+probability_tuning,2021-12-01,84,60,2022-01-01,2023-12-01,24,False,True,prequential_audit_no_hyperparameter_selection
+terminal_holdout,2023-12-01,108,84,2024-01-01,2025-12-01,24,False,False,terminal_holdout
