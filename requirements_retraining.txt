@@ -1,0 +1,6 @@
+# Additional dependencies for optional retraining of all three real models.
+-r requirements.txt
+torch
+lightgbm
+lightning
+pytorch-forecasting
