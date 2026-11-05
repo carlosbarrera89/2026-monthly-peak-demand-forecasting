@@ -1,0 +1,9 @@
+feature,source,role,future_treatment,measured_exogenous
+mon_sin,calendar,"annual periodicity, sine component",known deterministically,False
+mon_cos,calendar,"annual periodicity, cosine component",known deterministically,False
+trend,calendar,elapsed-time component for gradual level change,continued deterministically,False
+gdp_idx,World Bank,slow macroeconomic scale,log Theil-Sen trend using admissible history,True
+population_idx,World Bank,slow demographic scale,log Theil-Sen trend using admissible history,True
+ipi,Eurostat,monthly industrial activity and seasonal variation,seasonal repetition or damped seasonal ETS,True
+hdd,Eurostat,heating-related monthly weather variation,month-specific median of latest admissible ten years,True
+cdd,Eurostat,cooling-related monthly weather variation,month-specific median of latest admissible ten years,True

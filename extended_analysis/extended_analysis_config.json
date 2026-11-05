@@ -1,0 +1,11 @@
+{
+  "countries": ["SPAIN", "FRANCE"],
+  "horizon_bands_months": [[1, 6], [7, 12], [13, 18], [19, 24]],
+  "future_residual_inflation_endpoints_at_month_240": [1.0, 1.25, 1.5],
+  "optional_long_horizon_origins": ["2021-06-01", "2021-12-01", "2022-06-01", "2022-12-01"],
+  "notes": [
+    "The default analysis reuses archived model paths and does not retrain the neural models.",
+    "Residual-scale alternatives are diagnostics and do not replace the selected configuration.",
+    "Structural scenario ranges are reported separately from conditional statistical intervals."
+  ]
+}

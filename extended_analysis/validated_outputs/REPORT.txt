@@ -1,0 +1,13 @@
+EXTENDED ANALYSIS
+
+The main forecasting experiment was not changed.
+The default diagnostics reuse archived predictions, simulations and scenario outputs.
+Long-horizon retraining executed: True
+Tables: 17
+Figures: 16 PNG and 16 PDF
+Elapsed seconds: 166.20
+
+The residual-scale alternatives are diagnostics, not a new hyperparameter selection.
+The structural scenario range has no probability weights and is not merged with the conditional statistical band.
+
+Validated repository location: extended_analysis/validated_outputs

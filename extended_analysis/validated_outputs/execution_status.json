@@ -1,0 +1,13 @@
+{
+  "status": "COMPLETED",
+  "elapsed_seconds": 166.2029999999795,
+  "long_horizon_retraining": true,
+  "main_experiment_modified": false,
+  "archived_predictions_reused": true,
+  "output_folder": "extended_analysis/validated_outputs",
+  "n_tables": 17,
+  "n_figures_png": 16,
+  "n_figures_pdf": 16,
+  "source_run_folder": "run_20261104_155407_570198",
+  "repository_snapshot": "v1.0.0"
+}
