@@ -1,0 +1,13 @@
+technology,horizon,method,n,RMSE_vehicles,MAE_vehicles,structural_policy_validation
+BEV,1,pred_entries_model,7,30043.344914549103,24116.340476190475,False
+BEV,1,pred_persistence,7,52229.873051731614,42435.57142857143,False
+BEV,3,pred_entries_model,5,95646.87063061906,86160.26305,False
+BEV,3,pred_persistence,5,131326.40806402953,117234.2,False
+BEV,5,pred_entries_model,3,172334.1520044717,166745.2188670139,False
+BEV,5,pred_persistence,3,203266.33370941353,195390.33333333334,False
+PHEV,1,pred_entries_model,7,37495.47991350488,29819.74761904762,False
+PHEV,1,pred_persistence,7,64252.522564154184,52544.42857142857,False
+PHEV,3,pred_entries_model,5,116656.22453473882,112806.40515,False
+PHEV,3,pred_persistence,5,161724.84540045168,149690.2,False
+PHEV,5,pred_entries_model,3,237662.73677400986,231836.9711227778,False
+PHEV,5,pred_persistence,3,258466.36233818383,249483.66666666666,False
