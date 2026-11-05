@@ -1,0 +1,197 @@
+{
+  "probabilities": null,
+  "selection_by_future_peak": false,
+  "protocol_type": "predeclared_structural_sensitivities_not_independent_test",
+  "scenarios": [
+    {
+      "id": "MILESTONES",
+      "description": "Technology stocks held after last anchor; no post2030 adoption extrapolation",
+      "stock_mode": "hold_stock",
+      "overrides": {}
+    },
+    {
+      "id": "TURNOVER",
+      "description": "Continuation of required2030 entry shares under explicit fleet turnover; reference not most-likely",
+      "stock_mode": "hold_entry_share",
+      "overrides": {}
+    },
+    {
+      "id": "FAST_RENEWAL",
+      "description": "Sensitivity: all replacement entries BEV by2035; not a stock target or guaranteed policy outcome",
+      "stock_mode": "all_bev_entries_2035",
+      "overrides": {}
+    },
+    {
+      "id": "MANAGED_CHARGING",
+      "description": "Sensitivity to reduced EV coincidence; no fitted probability",
+      "stock_mode": "hold_entry_share",
+      "overrides": {
+        "ev_critical_to_month_mean": 1.4
+      }
+    },
+    {
+      "id": "HIGH_COINCIDENCE",
+      "description": "Sensitivity to concentrated charging",
+      "stock_mode": "hold_entry_share",
+      "overrides": {
+        "ev_critical_to_month_mean": 2.8
+      }
+    },
+    {
+      "id": "HEAT_FOSSIL_ONLY",
+      "description": "All additional heat pumps replace non-electric heating; no Joule savings",
+      "stock_mode": "hold_entry_share",
+      "overrides": {
+        "hp_resistance_replacement_fraction": 0
+      }
+    },
+    {
+      "id": "HEAT_HALF_JOULE",
+      "description": "Half additional heat pumps replace Joule; scenario, not an estimated fraction",
+      "stock_mode": "hold_entry_share",
+      "overrides": {
+        "hp_resistance_replacement_fraction": 0.5
+      }
+    },
+    {
+      "id": "HEAT_EFFICIENT",
+      "description": "Heating thermal requirement20% smaller; engineering sensitivity",
+      "stock_mode": "hold_entry_share",
+      "overrides": {
+        "hp_thermal_demand_factor": 0.8
+      }
+    },
+    {
+      "id": "COLD_BACKUP",
+      "description": "Peak COP1.5 and10% resistance backup; no weather event probability assigned",
+      "stock_mode": "hold_entry_share",
+      "overrides": {
+        "hp_cold_COP": 1.5,
+        "hp_cold_backup_fraction": 0.1
+      }
+    },
+    {
+      "id": "BASELINE_OVERLAP50",
+      "description": "Half structural increment interpreted as already embedded; not identified from peak data",
+      "stock_mode": "hold_entry_share",
+      "overrides": {
+        "additionality_fraction": 0.5
+      }
+    },
+    {
+      "id": "BASELINE_OVERLAP100",
+      "description": "Full overlap boundary; must reproduce StatisticalBaseline exactly",
+      "stock_mode": "hold_entry_share",
+      "overrides": {
+        "additionality_fraction": 0
+      }
+    },
+    {
+      "id": "PROJECTS_DELAY3",
+      "description": "Three-year delay of new connections",
+      "stock_mode": "hold_entry_share",
+      "overrides": {
+        "project_delay_years": 3
+      }
+    },
+    {
+      "id": "PROJECTS_EMBEDDED20",
+      "description": "20% of capacity additions already embedded or duplicated, sensitivity",
+      "stock_mode": "hold_entry_share",
+      "overrides": {
+        "project_already_embedded_fraction": 0.2
+      }
+    },
+    {
+      "id": "H2_EXISTING_BASE",
+      "description": "Existing capacity stress base0.5GW Spain and0.2GW France; values are assumptions not observations",
+      "stock_mode": "hold_entry_share",
+      "overrides": {
+        "h2_base_by_country_GW": {
+          "spain": 0.5,
+          "france": 0.2
+        }
+      }
+    },
+    {
+      "id": "RESIDENTIAL_GROSS",
+      "description": "Include Spanish residential gross pipeline, overlap-sensitive upper accounting test",
+      "stock_mode": "hold_entry_share",
+      "overrides": {
+        "enable_residential_projects": true
+      }
+    },
+    {
+      "id": "TURNOVER4",
+      "description": "Fleet annual replacement4% instead of5%; fixed fleet size",
+      "stock_mode": "hold_entry_share",
+      "overrides": {
+        "turnover_rate": 0.04
+      }
+    },
+    {
+      "id": "TURNOVER6",
+      "description": "Fleet annual replacement6% instead of5%; fixed fleet size",
+      "stock_mode": "hold_entry_share",
+      "overrides": {
+        "turnover_rate": 0.06
+      }
+    },
+    {
+      "id": "EV_BEV_SPLIT50",
+      "description": "Spanish2030 passenger plug-in stock50%BEV, restPHEV",
+      "stock_mode": "hold_entry_share",
+      "overrides": {
+        "target_bev_fraction": 0.5
+      }
+    },
+    {
+      "id": "EV_BEV_SPLIT90",
+      "description": "Spanish2030 passenger plug-in stock90%BEV, restPHEV",
+      "stock_mode": "hold_entry_share",
+      "overrides": {
+        "target_bev_fraction": 0.9
+      }
+    },
+    {
+      "id": "EV_LOW_ENERGY",
+      "description": "Grid energy2.0BEV and0.8PHEV MWh/vehicle-year",
+      "stock_mode": "hold_entry_share",
+      "overrides": {
+        "bev_grid_MWh_per_year": 2.0,
+        "phev_grid_MWh_per_year": 0.8
+      }
+    },
+    {
+      "id": "EV_HIGH_ENERGY",
+      "description": "Grid energy3.4BEV and1.8PHEV MWh/vehicle-year",
+      "stock_mode": "hold_entry_share",
+      "overrides": {
+        "bev_grid_MWh_per_year": 3.4,
+        "phev_grid_MWh_per_year": 1.8
+      }
+    },
+    {
+      "id": "HP_BASE35M",
+      "description": "FrenchHP2025base3.5m rather than policy interpolation; sensitivity not observed",
+      "stock_mode": "hold_entry_share",
+      "overrides": {
+        "hp_base_override": 3500000
+      }
+    },
+    {
+      "id": "FR_SDES_BASE",
+      "description": "National-vintage sensitivity: 40m cars,3.5%BEV2%PHEV; rounded official figures",
+      "stock_mode": "hold_entry_share",
+      "overrides": {
+        "alternative_base_by_country": {
+          "france": {
+            "fleet_total": 40000000.0,
+            "BEV": 1400000.0,
+            "PHEV": 800000.0
+          }
+        }
+      }
+    }
+  ]
+}

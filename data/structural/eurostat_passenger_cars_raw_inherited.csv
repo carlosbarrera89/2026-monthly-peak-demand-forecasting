@@ -1,0 +1,396 @@
+freq,freq__label,unit,unit__label,mot_nrg,mot_nrg__label,geo,geo__label,time,time__label,leg_form,leg_form__label,value
+A,Annual,NR,Number,TOTAL,Total,ES,Spain,2013,2013,TOTAL,Total,22025000.0
+A,Annual,NR,Number,TOTAL,Total,ES,Spain,2014,2014,TOTAL,Total,22029512.0
+A,Annual,NR,Number,TOTAL,Total,ES,Spain,2015,2015,TOTAL,Total,22355549.0
+A,Annual,NR,Number,TOTAL,Total,ES,Spain,2016,2016,TOTAL,Total,22876830.0
+A,Annual,NR,Number,TOTAL,Total,ES,Spain,2017,2017,TOTAL,Total,24676557.0
+A,Annual,NR,Number,TOTAL,Total,ES,Spain,2018,2018,TOTAL,Total,25304190.0
+A,Annual,NR,Number,TOTAL,Total,ES,Spain,2019,2019,TOTAL,Total,25836586.0
+A,Annual,NR,Number,TOTAL,Total,ES,Spain,2020,2020,TOTAL,Total,26034347.0
+A,Annual,NR,Number,TOTAL,Total,ES,Spain,2021,2021,TOTAL,Total,26293882.0
+A,Annual,NR,Number,TOTAL,Total,ES,Spain,2022,2022,TOTAL,Total,26605478.0
+A,Annual,NR,Number,TOTAL,Total,ES,Spain,2023,2023,TOTAL,Total,26778142.0
+A,Annual,NR,Number,TOTAL,Total,ES,Spain,2024,2024,TOTAL,Total,26700972.0
+A,Annual,NR,Number,TOTAL,Total,ES,Spain,2025,2025,TOTAL,Total,27281373.0
+A,Annual,NR,Number,PET,Petrol,ES,Spain,2014,2014,TOTAL,Total,9718378.0
+A,Annual,NR,Number,PET,Petrol,ES,Spain,2015,2015,TOTAL,Total,9696611.0
+A,Annual,NR,Number,PET,Petrol,ES,Spain,2016,2016,TOTAL,Total,9960748.0
+A,Annual,NR,Number,PET,Petrol,ES,Spain,2017,2017,TOTAL,Total,10233944.0
+A,Annual,NR,Number,PET,Petrol,ES,Spain,2018,2018,TOTAL,Total,10646295.0
+A,Annual,NR,Number,PET,Petrol,ES,Spain,2019,2019,TOTAL,Total,11079058.0
+A,Annual,NR,Number,PET,Petrol,ES,Spain,2020,2020,TOTAL,Total,11268897.0
+A,Annual,NR,Number,PET,Petrol,ES,Spain,2021,2021,TOTAL,Total,11562236.0
+A,Annual,NR,Number,PET,Petrol,ES,Spain,2022,2022,TOTAL,Total,11904738.0
+A,Annual,NR,Number,PET,Petrol,ES,Spain,2023,2023,TOTAL,Total,12102966.0
+A,Annual,NR,Number,PET,Petrol,ES,Spain,2024,2024,TOTAL,Total,12107210.0
+A,Annual,NR,Number,PET,Petrol,ES,Spain,2025,2025,TOTAL,Total,12661579.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,ES,Spain,2014,2014,TOTAL,Total,9663658.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,ES,Spain,2015,2015,TOTAL,Total,9635303.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,ES,Spain,2016,2016,TOTAL,Total,9854718.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,ES,Spain,2017,2017,TOTAL,Total,10073597.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,ES,Spain,2018,2018,TOTAL,Total,10412137.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,ES,Spain,2019,2019,TOTAL,Total,10750260.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,ES,Spain,2020,2020,TOTAL,Total,10811465.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,ES,Spain,2021,2021,TOTAL,Total,10893556.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,ES,Spain,2022,2022,TOTAL,Total,10990982.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,ES,Spain,2023,2023,TOTAL,Total,10876900.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,ES,Spain,2024,2024,TOTAL,Total,10496661.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,ES,Spain,2025,2025,TOTAL,Total,10517959.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,ES,Spain,2014,2014,TOTAL,Total,54362.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,ES,Spain,2015,2015,TOTAL,Total,60911.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,ES,Spain,2016,2016,TOTAL,Total,105608.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,ES,Spain,2017,2017,TOTAL,Total,159413.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,ES,Spain,2018,2018,TOTAL,Total,231284.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,ES,Spain,2019,2019,TOTAL,Total,320368.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,ES,Spain,2020,2020,TOTAL,Total,427973.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,ES,Spain,2021,2021,TOTAL,Total,599638.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,ES,Spain,2022,2022,TOTAL,Total,800851.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,ES,Spain,2023,2023,TOTAL,Total,1053410.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,ES,Spain,2024,2024,TOTAL,Total,1383928.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,ES,Spain,2025,2025,TOTAL,Total,1793876.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,ES,Spain,2014,2014,TOTAL,Total,358.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,ES,Spain,2015,2015,TOTAL,Total,397.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,ES,Spain,2016,2016,TOTAL,Total,422.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,ES,Spain,2017,2017,TOTAL,Total,934.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,ES,Spain,2018,2018,TOTAL,Total,2874.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,ES,Spain,2019,2019,TOTAL,Total,8430.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,ES,Spain,2020,2020,TOTAL,Total,29459.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,ES,Spain,2021,2021,TOTAL,Total,69042.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,ES,Spain,2022,2022,TOTAL,Total,112905.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,ES,Spain,2023,2023,TOTAL,Total,172656.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,ES,Spain,2024,2024,TOTAL,Total,226621.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,ES,Spain,2025,2025,TOTAL,Total,349744.0
+A,Annual,NR,Number,DIE,Diesel,ES,Spain,2014,2014,TOTAL,Total,12303075.0
+A,Annual,NR,Number,DIE,Diesel,ES,Spain,2015,2015,TOTAL,Total,12645648.0
+A,Annual,NR,Number,DIE,Diesel,ES,Spain,2016,2016,TOTAL,Total,12881856.0
+A,Annual,NR,Number,DIE,Diesel,ES,Spain,2017,2017,TOTAL,Total,14394389.0
+A,Annual,NR,Number,DIE,Diesel,ES,Spain,2018,2018,TOTAL,Total,14575031.0
+A,Annual,NR,Number,DIE,Diesel,ES,Spain,2019,2019,TOTAL,Total,14624456.0
+A,Annual,NR,Number,DIE,Diesel,ES,Spain,2020,2020,TOTAL,Total,14599359.0
+A,Annual,NR,Number,DIE,Diesel,ES,Spain,2021,2021,TOTAL,Total,14524538.0
+A,Annual,NR,Number,DIE,Diesel,ES,Spain,2022,2022,TOTAL,Total,14444847.0
+A,Annual,NR,Number,DIE,Diesel,ES,Spain,2023,2023,TOTAL,Total,14334215.0
+A,Annual,NR,Number,DIE,Diesel,ES,Spain,2024,2024,TOTAL,Total,14157909.0
+A,Annual,NR,Number,DIE,Diesel,ES,Spain,2025,2025,TOTAL,Total,14017092.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,ES,Spain,2014,2014,TOTAL,Total,12302003.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,ES,Spain,2015,2015,TOTAL,Total,12644560.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,ES,Spain,2016,2016,TOTAL,Total,12880656.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,ES,Spain,2017,2017,TOTAL,Total,14393041.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,ES,Spain,2018,2018,TOTAL,Total,14572400.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,ES,Spain,2019,2019,TOTAL,Total,14606861.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,ES,Spain,2020,2020,TOTAL,Total,14555080.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,ES,Spain,2021,2021,TOTAL,Total,14441476.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,ES,Spain,2022,2022,TOTAL,Total,14328026.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,ES,Spain,2023,2023,TOTAL,Total,14175393.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,ES,Spain,2024,2024,TOTAL,Total,13952057.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,ES,Spain,2025,2025,TOTAL,Total,13758092.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,ES,Spain,2014,2014,TOTAL,Total,1053.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,ES,Spain,2015,2015,TOTAL,Total,1061.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,ES,Spain,2016,2016,TOTAL,Total,1168.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,ES,Spain,2017,2017,TOTAL,Total,1303.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,ES,Spain,2018,2018,TOTAL,Total,2574.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,ES,Spain,2019,2019,TOTAL,Total,17446.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,ES,Spain,2020,2020,TOTAL,Total,42866.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,ES,Spain,2021,2021,TOTAL,Total,79462.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,ES,Spain,2022,2022,TOTAL,Total,111029.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,ES,Spain,2023,2023,TOTAL,Total,151031.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,ES,Spain,2024,2024,TOTAL,Total,192829.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,ES,Spain,2025,2025,TOTAL,Total,238002.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,ES,Spain,2014,2014,TOTAL,Total,19.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,ES,Spain,2015,2015,TOTAL,Total,27.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,ES,Spain,2016,2016,TOTAL,Total,32.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,ES,Spain,2017,2017,TOTAL,Total,45.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,ES,Spain,2018,2018,TOTAL,Total,57.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,ES,Spain,2019,2019,TOTAL,Total,149.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,ES,Spain,2020,2020,TOTAL,Total,1413.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,ES,Spain,2021,2021,TOTAL,Total,3600.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,ES,Spain,2022,2022,TOTAL,Total,5792.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,ES,Spain,2023,2023,TOTAL,Total,7791.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,ES,Spain,2024,2024,TOTAL,Total,13023.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,ES,Spain,2025,2025,TOTAL,Total,20998.0
+A,Annual,NR,Number,ALT,Alternative energy,ES,Spain,2014,2014,TOTAL,Total,8059.0
+A,Annual,NR,Number,ALT,Alternative energy,ES,Spain,2015,2015,TOTAL,Total,13290.0
+A,Annual,NR,Number,ALT,Alternative energy,ES,Spain,2016,2016,TOTAL,Total,34226.0
+A,Annual,NR,Number,ALT,Alternative energy,ES,Spain,2017,2017,TOTAL,Total,48224.0
+A,Annual,NR,Number,ALT,Alternative energy,ES,Spain,2018,2018,TOTAL,Total,82864.0
+A,Annual,NR,Number,ALT,Alternative energy,ES,Spain,2019,2019,TOTAL,Total,133072.0
+A,Annual,NR,Number,ALT,Alternative energy,ES,Spain,2020,2020,TOTAL,Total,166091.0
+A,Annual,NR,Number,ALT,Alternative energy,ES,Spain,2021,2021,TOTAL,Total,207108.0
+A,Annual,NR,Number,ALT,Alternative energy,ES,Spain,2022,2022,TOTAL,Total,255893.0
+A,Annual,NR,Number,ALT,Alternative energy,ES,Spain,2023,2023,TOTAL,Total,340961.0
+A,Annual,NR,Number,ALT,Alternative energy,ES,Spain,2024,2024,TOTAL,Total,435853.0
+A,Annual,NR,Number,ALT,Alternative energy,ES,Spain,2025,2025,TOTAL,Total,602702.0
+A,Annual,NR,Number,ELC,Electricity,ES,Spain,2013,2013,TOTAL,Total,2021.0
+A,Annual,NR,Number,ELC,Electricity,ES,Spain,2014,2014,TOTAL,Total,2832.0
+A,Annual,NR,Number,ELC,Electricity,ES,Spain,2015,2015,TOTAL,Total,5243.0
+A,Annual,NR,Number,ELC,Electricity,ES,Spain,2016,2016,TOTAL,Total,5756.0
+A,Annual,NR,Number,ELC,Electricity,ES,Spain,2017,2017,TOTAL,Total,9681.0
+A,Annual,NR,Number,ELC,Electricity,ES,Spain,2018,2018,TOTAL,Total,15865.0
+A,Annual,NR,Number,ELC,Electricity,ES,Spain,2019,2019,TOTAL,Total,26197.0
+A,Annual,NR,Number,ELC,Electricity,ES,Spain,2020,2020,TOTAL,Total,43203.0
+A,Annual,NR,Number,ELC,Electricity,ES,Spain,2021,2021,TOTAL,Total,66085.0
+A,Annual,NR,Number,ELC,Electricity,ES,Spain,2022,2022,TOTAL,Total,95617.0
+A,Annual,NR,Number,ELC,Electricity,ES,Spain,2023,2023,TOTAL,Total,150282.0
+A,Annual,NR,Number,ELC,Electricity,ES,Spain,2024,2024,TOTAL,Total,208240.0
+A,Annual,NR,Number,ELC,Electricity,ES,Spain,2025,2025,TOTAL,Total,312914.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,ES,Spain,2013,2013,TOTAL,Total,0.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,ES,Spain,2014,2014,TOTAL,Total,2.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,ES,Spain,2015,2015,TOTAL,Total,2.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,ES,Spain,2016,2016,TOTAL,Total,0.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,ES,Spain,2017,2017,TOTAL,Total,8.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,ES,Spain,2018,2018,TOTAL,Total,1.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,ES,Spain,2019,2019,TOTAL,Total,2.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,ES,Spain,2020,2020,TOTAL,Total,9.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,ES,Spain,2021,2021,TOTAL,Total,18.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,ES,Spain,2022,2022,TOTAL,Total,88.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,ES,Spain,2023,2023,TOTAL,Total,33.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,ES,Spain,2024,2024,TOTAL,Total,42.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,ES,Spain,2025,2025,TOTAL,Total,65.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,ES,Spain,2013,2013,TOTAL,Total,0.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,ES,Spain,2014,2014,TOTAL,Total,60.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,ES,Spain,2015,2015,TOTAL,Total,64.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,ES,Spain,2016,2016,TOTAL,Total,128.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,ES,Spain,2017,2017,TOTAL,Total,132.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,ES,Spain,2018,2018,TOTAL,Total,134.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,ES,Spain,2019,2019,TOTAL,Total,128.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,ES,Spain,2020,2020,TOTAL,Total,125.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,ES,Spain,2021,2021,TOTAL,Total,126.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,ES,Spain,2022,2022,TOTAL,Total,70.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,ES,Spain,2023,2023,TOTAL,Total,155.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,ES,Spain,2024,2024,TOTAL,Total,172.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,ES,Spain,2025,2025,TOTAL,Total,247427.0
+A,Annual,NR,Number,GAS,Natural gas,ES,Spain,2014,2014,TOTAL,Total,176.0
+A,Annual,NR,Number,GAS,Natural gas,ES,Spain,2015,2015,TOTAL,Total,398.0
+A,Annual,NR,Number,GAS,Natural gas,ES,Spain,2016,2016,TOTAL,Total,612.0
+A,Annual,NR,Number,GAS,Natural gas,ES,Spain,2017,2017,TOTAL,Total,653.0
+A,Annual,NR,Number,GAS,Natural gas,ES,Spain,2018,2018,TOTAL,Total,1080.0
+A,Annual,NR,Number,GAS,Natural gas,ES,Spain,2019,2019,TOTAL,Total,6966.0
+A,Annual,NR,Number,GAS,Natural gas,ES,Spain,2020,2020,TOTAL,Total,10678.0
+A,Annual,NR,Number,GAS,Natural gas,ES,Spain,2021,2021,TOTAL,Total,11627.0
+A,Annual,NR,Number,GAS,Natural gas,ES,Spain,2022,2022,TOTAL,Total,12015.0
+A,Annual,NR,Number,GAS,Natural gas,ES,Spain,2023,2023,TOTAL,Total,12094.0
+A,Annual,NR,Number,GAS,Natural gas,ES,Spain,2024,2024,TOTAL,Total,12169.0
+A,Annual,NR,Number,GAS,Natural gas,ES,Spain,2025,2025,TOTAL,Total,12154.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),ES,Spain,2014,2014,TOTAL,Total,1971.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),ES,Spain,2015,2015,TOTAL,Total,4792.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),ES,Spain,2016,2016,TOTAL,Total,8371.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),ES,Spain,2017,2017,TOTAL,Total,8890.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),ES,Spain,2018,2018,TOTAL,Total,9875.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),ES,Spain,2019,2019,TOTAL,Total,16315.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),ES,Spain,2020,2020,TOTAL,Total,16245.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),ES,Spain,2021,2021,TOTAL,Total,16145.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),ES,Spain,2022,2022,TOTAL,Total,17224.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),ES,Spain,2023,2023,TOTAL,Total,18373.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),ES,Spain,2024,2024,TOTAL,Total,18907.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),ES,Spain,2025,2025,TOTAL,Total,18894.0
+A,Annual,NR,Number,OTH,Other,ES,Spain,2014,2014,TOTAL,Total,3018.0
+A,Annual,NR,Number,OTH,Other,ES,Spain,2015,2015,TOTAL,Total,2791.0
+A,Annual,NR,Number,OTH,Other,ES,Spain,2016,2016,TOTAL,Total,4501.0
+A,Annual,NR,Number,OTH,Other,ES,Spain,2017,2017,TOTAL,Total,6339.0
+A,Annual,NR,Number,OTH,Other,ES,Spain,2018,2018,TOTAL,Total,9005.0
+A,Annual,NR,Number,OTH,Other,ES,Spain,2019,2019,TOTAL,Total,10450.0
+A,Annual,NR,Number,OTH,Other,ES,Spain,2020,2020,TOTAL,Total,10814.0
+A,Annual,NR,Number,OTH,Other,ES,Spain,2021,2021,TOTAL,Total,11578.0
+A,Annual,NR,Number,OTH,Other,ES,Spain,2022,2022,TOTAL,Total,11420.0
+A,Annual,NR,Number,OTH,Other,ES,Spain,2023,2023,TOTAL,Total,11406.0
+A,Annual,NR,Number,OTH,Other,ES,Spain,2024,2024,TOTAL,Total,11253.0
+A,Annual,NR,Number,OTH,Other,ES,Spain,2025,2025,TOTAL,Total,11248.0
+A,Annual,NR,Number,TOTAL,Total,FR,France,2013,2013,TOTAL,Total,36149230.0
+A,Annual,NR,Number,TOTAL,Total,FR,France,2014,2014,TOTAL,Total,36647883.0
+A,Annual,NR,Number,TOTAL,Total,FR,France,2015,2015,TOTAL,Total,37180101.0
+A,Annual,NR,Number,TOTAL,Total,FR,France,2016,2016,TOTAL,Total,37673476.0
+A,Annual,NR,Number,TOTAL,Total,FR,France,2017,2017,TOTAL,Total,38117663.0
+A,Annual,NR,Number,TOTAL,Total,FR,France,2018,2018,TOTAL,Total,38229305.0
+A,Annual,NR,Number,TOTAL,Total,FR,France,2019,2019,TOTAL,Total,38423556.0
+A,Annual,NR,Number,TOTAL,Total,FR,France,2020,2020,TOTAL,Total,38470122.0
+A,Annual,NR,Number,TOTAL,Total,FR,France,2021,2021,TOTAL,Total,38818914.0
+A,Annual,NR,Number,TOTAL,Total,FR,France,2022,2022,TOTAL,Total,38973339.0
+A,Annual,NR,Number,TOTAL,Total,FR,France,2023,2023,TOTAL,Total,39358421.0
+A,Annual,NR,Number,TOTAL,Total,FR,France,2024,2024,TOTAL,Total,39738933.0
+A,Annual,NR,Number,TOTAL,Total,FR,France,2025,2025,TOTAL,Total,39957994.0
+A,Annual,NR,Number,PET,Petrol,FR,France,2013,2013,TOTAL,Total,12925652.0
+A,Annual,NR,Number,PET,Petrol,FR,France,2014,2014,TOTAL,Total,12948042.0
+A,Annual,NR,Number,PET,Petrol,FR,France,2015,2015,TOTAL,Total,13162270.0
+A,Annual,NR,Number,PET,Petrol,FR,France,2016,2016,TOTAL,Total,13516599.0
+A,Annual,NR,Number,PET,Petrol,FR,France,2017,2017,TOTAL,Total,14033219.0
+A,Annual,NR,Number,PET,Petrol,FR,France,2018,2018,TOTAL,Total,14679924.0
+A,Annual,NR,Number,PET,Petrol,FR,France,2019,2019,TOTAL,Total,15413169.0
+A,Annual,NR,Number,PET,Petrol,FR,France,2020,2020,TOTAL,Total,15902590.0
+A,Annual,NR,Number,PET,Petrol,FR,France,2021,2021,TOTAL,Total,16595622.0
+A,Annual,NR,Number,PET,Petrol,FR,France,2022,2022,TOTAL,Total,17149898.0
+A,Annual,NR,Number,PET,Petrol,FR,France,2023,2023,TOTAL,Total,17854357.0
+A,Annual,NR,Number,PET,Petrol,FR,France,2024,2024,TOTAL,Total,18623070.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,FR,France,2013,2013,TOTAL,Total,12837432.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,FR,France,2014,2014,TOTAL,Total,12827010.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,FR,France,2015,2015,TOTAL,Total,13001571.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,FR,France,2016,2016,TOTAL,Total,13305262.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,FR,France,2017,2017,TOTAL,Total,13743343.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,FR,France,2018,2018,TOTAL,Total,14289523.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,FR,France,2019,2019,TOTAL,Total,14915413.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,FR,France,2020,2020,TOTAL,Total,15189888.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,FR,France,2021,2021,TOTAL,Total,15482449.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,FR,France,2022,2022,TOTAL,Total,15631315.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,FR,France,2023,2023,TOTAL,Total,15821379.0
+A,Annual,NR,Number,PET_X_HYB,Petrol (excluding hybrids)  ,FR,France,2024,2024,TOTAL,Total,15919234.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,FR,France,2013,2013,TOTAL,Total,58858.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,FR,France,2014,2014,TOTAL,Total,90224.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,FR,France,2015,2015,TOTAL,Total,124933.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,FR,France,2016,2016,TOTAL,Total,169242.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,FR,France,2017,2017,TOTAL,Total,236786.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,FR,France,2018,2018,TOTAL,Total,323845.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,FR,France,2019,2019,TOTAL,Total,414993.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,FR,France,2020,2020,TOTAL,Total,559279.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,FR,France,2021,2021,TOTAL,Total,824940.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,FR,France,2022,2022,TOTAL,Total,1111795.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,FR,France,2023,2023,TOTAL,Total,1477772.0
+A,Annual,NR,Number,ELC_PET_HYB,Hybrid electric-petrol,FR,France,2024,2024,TOTAL,Total,2020476.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,FR,France,2013,2013,TOTAL,Total,29362.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,FR,France,2014,2014,TOTAL,Total,30808.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,FR,France,2015,2015,TOTAL,Total,35766.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,FR,France,2016,2016,TOTAL,Total,42095.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,FR,France,2017,2017,TOTAL,Total,53090.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,FR,France,2018,2018,TOTAL,Total,66556.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,FR,France,2019,2019,TOTAL,Total,82763.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,FR,France,2020,2020,TOTAL,Total,153423.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,FR,France,2021,2021,TOTAL,Total,288233.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,FR,France,2022,2022,TOTAL,Total,406788.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,FR,France,2023,2023,TOTAL,Total,555206.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,FR,France,2024,2024,TOTAL,Total,683360.0
+A,Annual,NR,Number,ELC_PET_PI,Plug-in hybrid petrol-electric  ,FR,France,2025,2025,TOTAL,Total,794005.0
+A,Annual,NR,Number,DIE,Diesel,FR,France,2013,2013,TOTAL,Total,22988251.0
+A,Annual,NR,Number,DIE,Diesel,FR,France,2014,2014,TOTAL,Total,23462729.0
+A,Annual,NR,Number,DIE,Diesel,FR,France,2015,2015,TOTAL,Total,23770158.0
+A,Annual,NR,Number,DIE,Diesel,FR,France,2016,2016,TOTAL,Total,23896213.0
+A,Annual,NR,Number,DIE,Diesel,FR,France,2017,2017,TOTAL,Total,23808937.0
+A,Annual,NR,Number,DIE,Diesel,FR,France,2018,2018,TOTAL,Total,23256662.0
+A,Annual,NR,Number,DIE,Diesel,FR,France,2019,2019,TOTAL,Total,22679025.0
+A,Annual,NR,Number,DIE,Diesel,FR,France,2020,2020,TOTAL,Total,22116864.0
+A,Annual,NR,Number,DIE,Diesel,FR,France,2021,2021,TOTAL,Total,21553559.0
+A,Annual,NR,Number,DIE,Diesel,FR,France,2022,2022,TOTAL,Total,20831620.0
+A,Annual,NR,Number,DIE,Diesel,FR,France,2023,2023,TOTAL,Total,20129451.0
+A,Annual,NR,Number,DIE,Diesel,FR,France,2024,2024,TOTAL,Total,19404333.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,FR,France,2013,2013,TOTAL,Total,22965216.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,FR,France,2014,2014,TOTAL,Total,23429764.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,FR,France,2015,2015,TOTAL,Total,23718626.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,FR,France,2016,2016,TOTAL,Total,23840395.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,FR,France,2017,2017,TOTAL,Total,23752657.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,FR,France,2018,2018,TOTAL,Total,23199412.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,FR,France,2019,2019,TOTAL,Total,22611758.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,FR,France,2020,2020,TOTAL,Total,22025189.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,FR,France,2021,2021,TOTAL,Total,21417978.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,FR,France,2022,2022,TOTAL,Total,20666465.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,FR,France,2023,2023,TOTAL,Total,19941790.0
+A,Annual,NR,Number,DIE_X_HYB,Diesel (excluding hybrids)  ,FR,France,2024,2024,TOTAL,Total,19201010.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,FR,France,2013,2013,TOTAL,Total,22524.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,FR,France,2014,2014,TOTAL,Total,32412.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,FR,France,2015,2015,TOTAL,Total,50944.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,FR,France,2016,2016,TOTAL,Total,55045.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,FR,France,2017,2017,TOTAL,Total,55255.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,FR,France,2018,2018,TOTAL,Total,56030.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,FR,France,2019,2019,TOTAL,Total,65400.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,FR,France,2020,2020,TOTAL,Total,87623.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,FR,France,2021,2021,TOTAL,Total,124310.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,FR,France,2022,2022,TOTAL,Total,147936.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,FR,France,2023,2023,TOTAL,Total,166501.0
+A,Annual,NR,Number,ELC_DIE_HYB,Hybrid diesel-electric,FR,France,2024,2024,TOTAL,Total,176378.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,FR,France,2013,2013,TOTAL,Total,511.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,FR,France,2014,2014,TOTAL,Total,553.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,FR,France,2015,2015,TOTAL,Total,588.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,FR,France,2016,2016,TOTAL,Total,773.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,FR,France,2017,2017,TOTAL,Total,1025.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,FR,France,2018,2018,TOTAL,Total,1220.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,FR,France,2019,2019,TOTAL,Total,1867.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,FR,France,2020,2020,TOTAL,Total,4052.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,FR,France,2021,2021,TOTAL,Total,11271.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,FR,France,2022,2022,TOTAL,Total,17219.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,FR,France,2023,2023,TOTAL,Total,21160.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,FR,France,2024,2024,TOTAL,Total,26945.0
+A,Annual,NR,Number,ELC_DIE_PI,Plug-in hybrid diesel-electric  ,FR,France,2025,2025,TOTAL,Total,31308.0
+A,Annual,NR,Number,ALT,Alternative energy,FR,France,2013,2013,TOTAL,Total,235327.0
+A,Annual,NR,Number,ALT,Alternative energy,FR,France,2014,2014,TOTAL,Total,237112.0
+A,Annual,NR,Number,ALT,Alternative energy,FR,France,2015,2015,TOTAL,Total,247673.0
+A,Annual,NR,Number,ALT,Alternative energy,FR,France,2016,2016,TOTAL,Total,260664.0
+A,Annual,NR,Number,ALT,Alternative energy,FR,France,2017,2017,TOTAL,Total,275507.0
+A,Annual,NR,Number,ALT,Alternative energy,FR,France,2018,2018,TOTAL,Total,292719.0
+A,Annual,NR,Number,ALT,Alternative energy,FR,France,2019,2019,TOTAL,Total,331362.0
+A,Annual,NR,Number,ALT,Alternative energy,FR,France,2020,2020,TOTAL,Total,450668.0
+A,Annual,NR,Number,ALT,Alternative energy,FR,France,2021,2021,TOTAL,Total,669733.0
+A,Annual,NR,Number,ALT,Alternative energy,FR,France,2022,2022,TOTAL,Total,991821.0
+A,Annual,NR,Number,ALT,Alternative energy,FR,France,2023,2023,TOTAL,Total,1374613.0
+A,Annual,NR,Number,ALT,Alternative energy,FR,France,2024,2024,TOTAL,Total,1711530.0
+A,Annual,NR,Number,ELC,Electricity,FR,France,2013,2013,TOTAL,Total,17154.0
+A,Annual,NR,Number,ELC,Electricity,FR,France,2014,2014,TOTAL,Total,25950.0
+A,Annual,NR,Number,ELC,Electricity,FR,France,2015,2015,TOTAL,Total,41901.0
+A,Annual,NR,Number,ELC,Electricity,FR,France,2016,2016,TOTAL,Total,61338.0
+A,Annual,NR,Number,ELC,Electricity,FR,France,2017,2017,TOTAL,Total,82481.0
+A,Annual,NR,Number,ELC,Electricity,FR,France,2018,2018,TOTAL,Total,106489.0
+A,Annual,NR,Number,ELC,Electricity,FR,France,2019,2019,TOTAL,Total,141353.0
+A,Annual,NR,Number,ELC,Electricity,FR,France,2020,2020,TOTAL,Total,245112.0
+A,Annual,NR,Number,ELC,Electricity,FR,France,2021,2021,TOTAL,Total,403329.0
+A,Annual,NR,Number,ELC,Electricity,FR,France,2022,2022,TOTAL,Total,595858.0
+A,Annual,NR,Number,ELC,Electricity,FR,France,2023,2023,TOTAL,Total,868138.0
+A,Annual,NR,Number,ELC,Electricity,FR,France,2024,2024,TOTAL,Total,1132210.0
+A,Annual,NR,Number,ELC,Electricity,FR,France,2025,2025,TOTAL,Total,1543440.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,FR,France,2013,2013,TOTAL,Total,10.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,FR,France,2014,2014,TOTAL,Total,13.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,FR,France,2015,2015,TOTAL,Total,25.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,FR,France,2016,2016,TOTAL,Total,37.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,FR,France,2017,2017,TOTAL,Total,92.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,FR,France,2018,2018,TOTAL,Total,123.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,FR,France,2019,2019,TOTAL,Total,185.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,FR,France,2020,2020,TOTAL,Total,338.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,FR,France,2021,2021,TOTAL,Total,381.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,FR,France,2022,2022,TOTAL,Total,555.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,FR,France,2023,2023,TOTAL,Total,860.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,FR,France,2024,2024,TOTAL,Total,1304.0
+A,Annual,NR,Number,HYD_FCELL,Hydrogen and fuel cells ,FR,France,2025,2025,TOTAL,Total,1277.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,FR,France,2013,2013,TOTAL,Total,29045.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,FR,France,2014,2014,TOTAL,Total,29115.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,FR,France,2015,2015,TOTAL,Total,29149.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,FR,France,2016,2016,TOTAL,Total,30000.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,FR,France,2017,2017,TOTAL,Total,29955.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,FR,France,2018,2018,TOTAL,Total,30261.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,FR,France,2019,2019,TOTAL,Total,40911.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,FR,France,2020,2020,TOTAL,Total,48636.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,FR,France,2021,2021,TOTAL,Total,68327.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,FR,France,2022,2022,TOTAL,Total,157340.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,FR,France,2023,2023,TOTAL,Total,212159.0
+A,Annual,NR,Number,REN_OTH,Other renewable fuels,FR,France,2024,2024,TOTAL,Total,239454.0
+A,Annual,NR,Number,GAS,Natural gas,FR,France,2013,2013,TOTAL,Total,274.0
+A,Annual,NR,Number,GAS,Natural gas,FR,France,2014,2014,TOTAL,Total,293.0
+A,Annual,NR,Number,GAS,Natural gas,FR,France,2015,2015,TOTAL,Total,313.0
+A,Annual,NR,Number,GAS,Natural gas,FR,France,2016,2016,TOTAL,Total,315.0
+A,Annual,NR,Number,GAS,Natural gas,FR,France,2017,2017,TOTAL,Total,325.0
+A,Annual,NR,Number,GAS,Natural gas,FR,France,2018,2018,TOTAL,Total,342.0
+A,Annual,NR,Number,GAS,Natural gas,FR,France,2019,2019,TOTAL,Total,573.0
+A,Annual,NR,Number,GAS,Natural gas,FR,France,2020,2020,TOTAL,Total,890.0
+A,Annual,NR,Number,GAS,Natural gas,FR,France,2021,2021,TOTAL,Total,1070.0
+A,Annual,NR,Number,GAS,Natural gas,FR,France,2022,2022,TOTAL,Total,1199.0
+A,Annual,NR,Number,GAS,Natural gas,FR,France,2023,2023,TOTAL,Total,1337.0
+A,Annual,NR,Number,GAS,Natural gas,FR,France,2024,2024,TOTAL,Total,1347.0
+A,Annual,NR,Number,GAS,Natural gas,FR,France,2025,2025,TOTAL,Total,5447.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),FR,France,2013,2013,TOTAL,Total,407.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),FR,France,2014,2014,TOTAL,Total,374.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),FR,France,2015,2015,TOTAL,Total,337.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),FR,France,2016,2016,TOTAL,Total,355.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),FR,France,2017,2017,TOTAL,Total,324.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),FR,France,2018,2018,TOTAL,Total,284.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),FR,France,2019,2019,TOTAL,Total,211.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),FR,France,2020,2020,TOTAL,Total,178.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),FR,France,2021,2021,TOTAL,Total,168.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),FR,France,2022,2022,TOTAL,Total,158.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),FR,France,2023,2023,TOTAL,Total,134.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),FR,France,2024,2024,TOTAL,Total,122.0
+A,Annual,NR,Number,LPG,Liquefied petroleum gases (LPG),FR,France,2025,2025,TOTAL,Total,320536.0
+A,Annual,NR,Number,OTH,Other,FR,France,2013,2013,TOTAL,Total,3931.0
+A,Annual,NR,Number,OTH,Other,FR,France,2014,2014,TOTAL,Total,3895.0
+A,Annual,NR,Number,OTH,Other,FR,France,2015,2015,TOTAL,Total,3835.0
+A,Annual,NR,Number,OTH,Other,FR,France,2016,2016,TOTAL,Total,3730.0
+A,Annual,NR,Number,OTH,Other,FR,France,2017,2017,TOTAL,Total,3557.0
+A,Annual,NR,Number,OTH,Other,FR,France,2018,2018,TOTAL,Total,3397.0
+A,Annual,NR,Number,OTH,Other,FR,France,2019,2019,TOTAL,Total,3117.0
+A,Annual,NR,Number,OTH,Other,FR,France,2020,2020,TOTAL,Total,2676.0
+A,Annual,NR,Number,OTH,Other,FR,France,2021,2021,TOTAL,Total,2625.0
+A,Annual,NR,Number,OTH,Other,FR,France,2022,2022,TOTAL,Total,2727.0
+A,Annual,NR,Number,OTH,Other,FR,France,2023,2023,TOTAL,Total,2534.0
+A,Annual,NR,Number,OTH,Other,FR,France,2024,2024,TOTAL,Total,2372.0

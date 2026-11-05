@@ -1,0 +1,117 @@
+{
+  "version": "17.1.0",
+  "scenario_information_date": "2026-09-21",
+  "load_observations_end": "2025-12-01",
+  "forecast_start": "2026-01-01",
+  "forecast_end": "2045-12-01",
+  "n_simulations": 5000,
+  "reference_configuration": "TURNOVER",
+  "save_all_scenario_samples": false,
+  "run_statistical_benchmarks": true,
+  "run_driver_diagnostics": true,
+  "show_final_figures": false,
+  "no_structural_probability_weights": true,
+  "physical_inputs_fitted_to_total_demand": false,
+  "countries": {
+    "spain": {
+      "label": "Spain",
+      "policy_target_kind": "allocated_passenger_plugin_count",
+      "target_year": 2030,
+      "aggregate_ev_target": 5500000,
+      "aggregate_plugin_observed_2025": 746510,
+      "passenger_allocation": 0.9158028693520516,
+      "target_bev_fraction": 0.75,
+      "target_source": "PNIEC2024",
+      "allocation_status": "scenario_preserving_2025_passenger_fraction_not_official_category_split",
+      "heat_pumps_enabled": false
+    },
+    "france": {
+      "label": "France",
+      "policy_target_kind": "passenger_bev_share",
+      "target_year": 2030,
+      "target_bev_share": 0.15,
+      "target_source": "SNBC2026",
+      "phev_target_kind": "base_stock_held_to2030",
+      "heat_pumps_enabled": true,
+      "hp_source": "SNBC2026",
+      "hp_stock_knots": [
+        [
+          2023,
+          3000000
+        ],
+        [
+          2030,
+          9000000
+        ],
+        [
+          2050,
+          20000000
+        ]
+      ],
+      "hp_base_2025_status": "linear_interpolation_of_policy_knots_NOT_observed",
+      "hp_2050_status": "uses_20m_lower_approximation_to_more_than20m_not_exact_forecast"
+    }
+  },
+  "parameters": {
+    "turnover_rate": 0.05,
+    "fleet_growth": 0.0,
+    "bev_grid_MWh_per_year": 2.6,
+    "phev_grid_MWh_per_year": 1.3,
+    "ev_critical_to_month_mean": 2.0,
+    "hp_thermal_MWh_per_dwelling_year": 7.5,
+    "hp_seasonal_COP": 3.0,
+    "hp_cold_COP": 2.0,
+    "hp_cold_backup_fraction": 0.0,
+    "hp_resistance_replacement_fraction": 0.25,
+    "hp_thermal_peak_to_month_mean": 1.5,
+    "hp_thermal_demand_factor": 1.0,
+    "additionality_fraction": 1.0,
+    "project_multiplier": 1.0,
+    "project_already_embedded_fraction": 0.0,
+    "data_center_ramp_years": 12.5,
+    "data_center_initial_utilization": 0.05,
+    "data_center_utilization_age2_5": 0.2,
+    "data_center_mature_utilization": 0.8,
+    "cohort_start_year": 2026,
+    "enable_residential_projects": false,
+    "hypothesis_status": "engineering_scenario_NOT_empirically_estimated"
+  },
+  "ev_daily_energy_shape": [
+    1.08,
+    1.06,
+    1.03,
+    1.0,
+    0.98,
+    0.96,
+    0.95,
+    0.96,
+    0.99,
+    1.02,
+    1.04,
+    1.07
+  ],
+  "critical_hour_assumption": "technology_contributions_at_common_reference_monthly_peak; hour_switch_not_reconstructed",
+  "benchmarks": {
+    "ETS": "additive_damped_trend_additive_season12",
+    "SARIMA_order": [
+      1,
+      0,
+      0
+    ],
+    "SARIMA_seasonal_order": [
+      1,
+      1,
+      0,
+      12
+    ],
+    "selection": "predeclared_not_optimized_on_terminal_block"
+  },
+  "not_claimed": [
+    "complete_country_load_coverage",
+    "independent_of_policy",
+    "empirical_90pct_structural_coverage",
+    "all_country_generalization",
+    "absence_of_latent_baseline_overlap",
+    "accurate2045_forecast"
+  ]
+}

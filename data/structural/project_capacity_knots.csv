@@ -1,0 +1,11 @@
+country,component,exclusive_group,capacity_basis,year,capacity_GW,realization,peak_fraction,annual_utilization,ramp,source_id,excluded_primary_overlap
+spain,industry,ES_INDUSTRY,gross_pipeline,2030,9.0,0.7,0.65,0.4,flat,MITECO2025,False
+spain,electrolyzers,ES_H2,national_capacity_target,2030,12.0,0.9,0.2,0.5,flat,PNIEC2024,False
+spain,data_centers,ES_DC,gross_pipeline,2030,3.8,0.7,1.0,1.0,cohort,MITECO2025,False
+spain,residential,ES_RES,gross_pipeline,2030,1.8,0.7,0.6,0.35,flat,MITECO2025,True
+spain,rail,ES_RAIL,gross_pipeline,2030,0.56,0.8,0.75,0.45,flat,MITECO2025,False
+spain,ports,ES_PORTS,gross_pipeline,2030,1.2,0.75,0.55,0.3,flat,MITECO2025,False
+france,industry,FR_INDUSTRY,already_realized_scenario_capacity,2030,3.4,1.0,0.65,0.4,flat,RTE2025,False
+france,data_centers,FR_DC,already_realized_scenario_capacity,2030,4.3,1.0,1.0,1.0,cohort,RTE2025,False
+france,electrolyzers,FR_H2,national_capacity_target,2030,4.5,0.9,0.2,0.5,flat,H2FR2025,False
+france,electrolyzers,FR_H2,national_capacity_target,2035,8.0,0.9,0.2,0.5,flat,H2FR2025,False

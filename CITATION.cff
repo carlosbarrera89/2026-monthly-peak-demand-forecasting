@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the repository and the associated article."
+title: "Monthly Peak-Demand Forecasting and Conditional Long-Horizon Scenarios with a Tri-Model Ensemble"
+type: software
+authors:
+  - family-names: "Barrera-Singaña"
+    given-names: "Carlos"
+  - family-names: "Comech"
+    given-names: "María Paz"
+  - family-names: "Arcos"
+    given-names: "Hugo"
+version: 1.0.0
+date-released: 2026-11-04
+license: MIT
+keywords:
+  - load forecasting
+  - peak demand
+  - LSTM
+  - LightGBM
+  - temporal fusion transformer
+  - probabilistic forecasting
+  - power system planning

@@ -1,0 +1,3 @@
+country,component,base_capacity_GW,evidence_status,required_sensitivity
+spain,electrolyzers,0,assumed_negligible_not_observed,test_positive_base
+france,electrolyzers,0,assumed_negligible_not_observed,test_positive_base

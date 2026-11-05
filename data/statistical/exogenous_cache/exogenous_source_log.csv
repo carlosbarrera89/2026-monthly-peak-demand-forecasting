@@ -1,0 +1,9 @@
+country,variable,source,url,acquisition,prepared_at_utc
+SPAIN,GDP constant 2015 US$,World Bank WDI,https://api.worldbank.org/v2/country/ESP/indicator/NY.GDP.MKTP.KD?format=json&per_page=2000&date=2000%3A2025,downloaded,2026-09-12T20:51:13+00:00
+SPAIN,Population total,World Bank WDI,https://api.worldbank.org/v2/country/ESP/indicator/SP.POP.TOTL?format=json&per_page=2000&date=2000%3A2025,downloaded,2026-09-12T20:51:13+00:00
+SPAIN,"Industrial production index (manufacturing C, SCA, 2021=100)",Eurostat sts_inpr_m,https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?lang=en&geo=ES&indic_bt=PRD&nace_r2=C&s_adj=SCA&unit=I21,downloaded,2026-09-12T20:51:17+00:00
+SPAIN,Heating/cooling degree days,Eurostat/JRC nrg_chdd_m,https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nrg_chdd_m?lang=en&geo=ES&unit=NR&indic_nrg=HDD&indic_nrg=CDD,downloaded,2026-09-12T20:51:17+00:00
+FRANCE,GDP constant 2015 US$,World Bank WDI,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.MKTP.KD?format=json&per_page=2000&date=2000%3A2025,downloaded,2026-09-12T20:51:55+00:00
+FRANCE,Population total,World Bank WDI,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=2000&date=2000%3A2025,downloaded,2026-09-12T20:51:55+00:00
+FRANCE,"Industrial production index (manufacturing C, SCA, 2021=100)",Eurostat sts_inpr_m,https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?lang=en&geo=FR&indic_bt=PRD&nace_r2=C&s_adj=SCA&unit=I21,downloaded,2026-09-12T20:51:58+00:00
+FRANCE,Heating/cooling degree days,Eurostat/JRC nrg_chdd_m,https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nrg_chdd_m?lang=en&geo=FR&unit=NR&indic_nrg=HDD&indic_nrg=CDD,downloaded,2026-09-12T20:51:58+00:00
