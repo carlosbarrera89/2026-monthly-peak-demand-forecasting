@@ -1,0 +1,23 @@
+parameter,value,status,purpose
+turnover_rate,0.05,engineering_assumption_not_estimated,Declared conditional scenario; see methodology and automatic sensitivities
+fleet_growth,0.0,engineering_assumption_not_estimated,Declared conditional scenario; see methodology and automatic sensitivities
+bev_grid_MWh_per_year,2.6,engineering_assumption_not_estimated,Declared conditional scenario; see methodology and automatic sensitivities
+phev_grid_MWh_per_year,1.3,engineering_assumption_not_estimated,Declared conditional scenario; see methodology and automatic sensitivities
+ev_critical_to_month_mean,2.0,engineering_assumption_not_estimated,Declared conditional scenario; see methodology and automatic sensitivities
+hp_thermal_MWh_per_dwelling_year,7.5,engineering_assumption_not_estimated,Declared conditional scenario; see methodology and automatic sensitivities
+hp_seasonal_COP,3.0,engineering_assumption_not_estimated,Declared conditional scenario; see methodology and automatic sensitivities
+hp_cold_COP,2.0,engineering_assumption_not_estimated,Declared conditional scenario; see methodology and automatic sensitivities
+hp_cold_backup_fraction,0.0,engineering_assumption_not_estimated,Declared conditional scenario; see methodology and automatic sensitivities
+hp_resistance_replacement_fraction,0.25,engineering_assumption_not_estimated,Declared conditional scenario; see methodology and automatic sensitivities
+hp_thermal_peak_to_month_mean,1.5,engineering_assumption_not_estimated,Declared conditional scenario; see methodology and automatic sensitivities
+hp_thermal_demand_factor,1.0,engineering_assumption_not_estimated,Declared conditional scenario; see methodology and automatic sensitivities
+additionality_fraction,1.0,engineering_assumption_not_estimated,Declared conditional scenario; see methodology and automatic sensitivities
+project_multiplier,1.0,engineering_assumption_not_estimated,Declared conditional scenario; see methodology and automatic sensitivities
+project_already_embedded_fraction,0.0,engineering_assumption_not_estimated,Declared conditional scenario; see methodology and automatic sensitivities
+data_center_ramp_years,12.5,engineering_assumption_not_estimated,Declared conditional scenario; see methodology and automatic sensitivities
+data_center_initial_utilization,0.05,engineering_assumption_not_estimated,Declared conditional scenario; see methodology and automatic sensitivities
+data_center_utilization_age2_5,0.2,engineering_assumption_not_estimated,Declared conditional scenario; see methodology and automatic sensitivities
+data_center_mature_utilization,0.8,engineering_assumption_not_estimated,Declared conditional scenario; see methodology and automatic sensitivities
+cohort_start_year,2026,engineering_assumption_not_estimated,Declared conditional scenario; see methodology and automatic sensitivities
+enable_residential_projects,False,engineering_assumption_not_estimated,Declared conditional scenario; see methodology and automatic sensitivities
+hypothesis_status,engineering_scenario_NOT_empirically_estimated,engineering_assumption_not_estimated,Declared conditional scenario; see methodology and automatic sensitivities

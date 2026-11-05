@@ -1,0 +1,16 @@
+manuscript_figure,description,repository_file
+1,Conceptual relationship between peak-demand forecasting and expansion studies,conceptual_planning_overview.png
+2,Statistical baseline and conditional physical scenario workflow,workflow_overview.pdf
+3,Chronological evaluation calendar,Fig1_validation_calendar.pdf
+4,Spain terminal recursive forecast,Fig2_spain_backtest.pdf
+5,France terminal recursive forecast,Fig3_france_backtest.pdf
+6,Training-window and extended-horizon diagnostics,extended_validation.pdf
+7,Residual and structural uncertainty diagnostics,uncertainty_diagnostics.pdf
+8,Spain monthly conditional scenarios,Fig4_spain_monthly.pdf
+9,France monthly conditional scenarios,Fig5_france_monthly.pdf
+10,Spain annual conditional scenarios,Fig6_spain_annual.pdf
+11,France annual conditional scenarios,Fig7_france_annual.pdf
+12,Spain physical contribution accounting,Fig8_spain_contributions.pdf
+13,France physical contribution accounting,Fig9_france_contributions.pdf
+14,Spain structural sensitivities,Fig10_spain_sensitivity.pdf
+15,France structural sensitivities,Fig11_france_sensitivity.pdf

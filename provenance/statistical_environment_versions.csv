@@ -1,0 +1,14 @@
+package,version
+Python,3.13.9
+platform,Windows-11-10.0.26200-SP0
+executable,<ANACONDA_ENV>/python.exe
+numpy,2.3.1
+pandas,2.3.3
+scipy,1.16.3
+scikit-learn,1.7.2
+statsmodels,0.14.5
+lightgbm,4.7.0
+torch,2.11.0
+lightning,2.6.6
+pytorch-forecasting,1.8.0
+matplotlib,3.10.6

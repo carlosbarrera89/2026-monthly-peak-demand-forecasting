@@ -1,0 +1,13 @@
+country,component,included_primary,evidence_status,limitation
+spain,passenger_EV,yes,observed_category_stock_plus_allocated_policy_target,Target allocation and2030BEVsplit are scenarios; nonpassenger additions excluded
+spain,heat_pumps,no,no_harmonized_incremental_stock_used,Not equivalent to zero effect
+spain,residential_projects,no,potential_overlap_with_baseline_and_embedded_EV,Included only in RESIDENTIAL_GROSS sensitivity
+spain,industry_ports_rail_DC,yes,aggregate_pipeline_no_individual_inventory,Realization and timing assumed; overlap assessed only by sensitivities
+spain,hydrogen,yes,national_total_capacity_target,2025operating capacity unresolved; base sensitivity included
+france,passenger_EV,yes,inherited_Eurostat_vintage,Alternative SDES2026rounded baseline separately evaluated
+france,heat_pumps,yes,policy_trajectory_and_interpolated2025base,Replacement mix and COP at peak not empirically identified
+france,industrial_DC,yes,already_realized_scenario_capacity,No second60percent realization; commissioning schedule assumed
+france,hydrogen,yes,national_total_capacity_target,Not combined with RTEhydrogenpipeline to avoid duplicate category
+both,additionality,scenario,not_identifiable_from_monthly_total_peaks,BaselineNotProvedFreeOfImplicitNewLoad;0and50and100percent overlap cases
+both,critical_hour,approximation,no_hourly_reconstruction,Coincident loads assumed at common monthly critical period; peak-hour shift unresolved
+both,2030_2045,conditional,not_observable_future,Physical-scenario quantiles do not have empirical90percent coverage

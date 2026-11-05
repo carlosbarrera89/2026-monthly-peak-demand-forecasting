@@ -1,0 +1,30 @@
+[
+  {
+    "country": "FRANCE",
+    "mode": "VERIFIED_ARCHIVED_TRIAD_PATH_REUSE",
+    "source_run": "user supplied ARCHIVED_RESULTS_PACKAGE.zip",
+    "source_code_sha256": "65547ee5c0c2cda5e4f2f024ea79aabd3780e1a8970cfadaa31e3f6bbbe4dd36",
+    "core_sha256": "58d574246aa78cc20caf6f78d67b455ac0ffa6d5fafdcb6f3d97214f6409ef74",
+    "retrained_in_this_run": false,
+    "weights_recomputed_in_code": true,
+    "models": [
+      "LSTM",
+      "LGBM",
+      "TFT"
+    ]
+  },
+  {
+    "country": "SPAIN",
+    "mode": "VERIFIED_ARCHIVED_TRIAD_PATH_REUSE",
+    "source_run": "user supplied ARCHIVED_RESULTS_PACKAGE.zip",
+    "source_code_sha256": "65547ee5c0c2cda5e4f2f024ea79aabd3780e1a8970cfadaa31e3f6bbbe4dd36",
+    "core_sha256": "58d574246aa78cc20caf6f78d67b455ac0ffa6d5fafdcb6f3d97214f6409ef74",
+    "retrained_in_this_run": false,
+    "weights_recomputed_in_code": true,
+    "models": [
+      "LSTM",
+      "LGBM",
+      "TFT"
+    ]
+  }
+]

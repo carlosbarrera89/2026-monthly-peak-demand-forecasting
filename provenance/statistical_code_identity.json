@@ -1,0 +1,6 @@
+{
+  "version": "forecasting_statistical_baseline_1.0.0",
+  "source_sha256": "a8daec2ad7c19e35516fcf10c991fe6bceb20dafe91a056a1a68eab7c962c0aa",
+  "core_sha256": "58d574246aa78cc20caf6f78d67b455ac0ffa6d5fafdcb6f3d97214f6409ef74",
+  "source_deterministic_version": "monthly_triad_core_1.0.1"
+}

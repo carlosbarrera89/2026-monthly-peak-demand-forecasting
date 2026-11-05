@@ -1,0 +1,239 @@
+{
+  "countries": {
+    "FRANCE": {
+      "country": "FRANCE",
+      "metadata": {
+        "country": "FRANCE",
+        "source": "RTE",
+        "frequency": "monthly",
+        "variable": "monthly_peak_demand",
+        "units": "MW"
+      },
+      "weights": {
+        "LSTM": 0.35290158566099056,
+        "LGBM": 0.24130390804958973,
+        "TFT": 0.4057945062894196
+      },
+      "probability": {
+        "family": "HORIZON_SCALE",
+        "family_complexity": 0,
+        "block_length": 3,
+        "scale": 0.7,
+        "scale_distance_from_one": 0.30000000000000004,
+        "n_inner_folds": 2,
+        "n_inner_unique_months": 12,
+        "valid_candidate": true,
+        "invalid_reason": "",
+        "weighted_PICP90_pct": 90.27777777777777,
+        "coverage_error_pp": 0.2777777777777657,
+        "weighted_lower_miss_pct": 9.722222222222221,
+        "weighted_upper_miss_pct": 0.0,
+        "tail_imbalance_pp": 9.722222222222221,
+        "normalized_IntervalScore90": 0.22527555507529123,
+        "weighted_IntervalScore90_MW": 15608.626175346406,
+        "weighted_MPIW90_MW": 12186.256737177371,
+        "n_pairs": 30,
+        "n_unique_target_months": 12,
+        "coverage_tolerance_achieved_in_inner_cv": true,
+        "selection_basis": "inner forward CV; weighted coverage then normalized interval score with 1pct parsimony",
+        "selection_uses_probability_audit": false,
+        "selection_uses_terminal_holdout": false
+      },
+      "holdout_ensemble": {
+        "n": 24,
+        "RMSE_MW": 4215.395166124625,
+        "MAE_MW": 3083.0880338966576,
+        "WAPE_pct": 4.754424878512838,
+        "sMAPE_pct": 4.574254423084442,
+        "Bias_MW": 579.8551825400349
+      },
+      "holdout_probability": {
+        "n": 24,
+        "PICP90_pct": 83.33333333333334,
+        "MPIW90_MW": 9912.73711352276,
+        "IntervalScore90_MW": 20060.84733920167,
+        "coverage_error_pp": 6.666666666666665,
+        "P50_RMSE_MW": 4213.158108093887,
+        "pinball_P5_MW": 528.0234311872837,
+        "pinball_P50_MW": 1547.0963324532815,
+        "pinball_P95_MW": 475.0189357728,
+        "CRPS_MW": 2322.205516997611,
+        "country": "FRANCE",
+        "phase": "terminal_holdout",
+        "variant": "SELECTED_BASELINE",
+        "origin": "2023-12-01T00:00:00",
+        "evaluation_role": "terminal_excluded_from_this_run_selection_previously_seen_in_project",
+        "below_P5_count": 2,
+        "above_P95_count": 2,
+        "n_unique_target_months": 24,
+        "n_origins": 1
+      },
+      "diagnostics": {
+        "country": "FRANCE",
+        "mc_simulations": 5000,
+        "n_future_months": 240,
+        "n_complete_future_years": 20,
+        "selected_probability_family": "HORIZON_SCALE",
+        "block_length": 3,
+        "scale": 0.7,
+        "min_simulation_MW": 46925.86875193958,
+        "max_simulation_MW": 93913.86050155759,
+        "nonpositive_simulations": 0,
+        "nonfinite_simulations": 0,
+        "nonpositive_deterministic_components": {
+          "LSTM": 0,
+          "LGBM": 0,
+          "TFT": 0
+        },
+        "uncertainty_after24": "horizon_argument24_plus_calendar_cycle",
+        "demand_target_changed": false,
+        "log_error_is_not_demand_differencing": true,
+        "demand_floor_applied": false,
+        "demand_cap_applied": false,
+        "official_electric_demand_forecast_used": false,
+        "fixed_demand_CAGR_used": false,
+        "independent_driver_uncertainty_added": false,
+        "country_joint_simulations_calibrated": false,
+        "annualization": "annual_maximum_per_simulation_then_quantiles_across_simulations",
+        "holdout_outcomes_in_probability_fit": false,
+        "holdout_never_seen_in_project": false,
+        "warnings": [
+          "Terminal empirical coverage outside 87-93%; not retuned on that block.",
+          "Few unique months in inner calibration validation; no claim of independent observations."
+        ]
+      },
+      "deterministic_source": {
+        "country": "FRANCE",
+        "mode": "VERIFIED_ARCHIVED_TRIAD_PATH_REUSE",
+        "source_run": "user supplied ARCHIVED_RESULTS_PACKAGE.zip",
+        "source_code_sha256": "65547ee5c0c2cda5e4f2f024ea79aabd3780e1a8970cfadaa31e3f6bbbe4dd36",
+        "core_sha256": "58d574246aa78cc20caf6f78d67b455ac0ffa6d5fafdcb6f3d97214f6409ef74",
+        "retrained_in_this_run": false,
+        "weights_recomputed_in_code": true,
+        "models": [
+          "LSTM",
+          "LGBM",
+          "TFT"
+        ]
+      }
+    },
+    "SPAIN": {
+      "country": "SPAIN",
+      "metadata": {
+        "country": "SPAIN",
+        "source": "REE/ESIOS",
+        "frequency": "monthly",
+        "variable": "monthly_peak_demand",
+        "units": "MW"
+      },
+      "weights": {
+        "LSTM": 0.35267523791478034,
+        "LGBM": 0.3147443506775525,
+        "TFT": 0.3325804114076672
+      },
+      "probability": {
+        "family": "HORIZON_SCALE",
+        "family_complexity": 0,
+        "block_length": 6,
+        "scale": 1.0,
+        "scale_distance_from_one": 0.0,
+        "n_inner_folds": 2,
+        "n_inner_unique_months": 12,
+        "valid_candidate": true,
+        "invalid_reason": "",
+        "weighted_PICP90_pct": 88.8888888888889,
+        "coverage_error_pp": 1.1111111111111072,
+        "weighted_lower_miss_pct": 2.7777777777777777,
+        "weighted_upper_miss_pct": 8.333333333333332,
+        "tail_imbalance_pp": 5.555555555555555,
+        "normalized_IntervalScore90": 0.22814392098079952,
+        "weighted_IntervalScore90_MW": 8381.076541746359,
+        "weighted_MPIW90_MW": 7590.149818266232,
+        "n_pairs": 30,
+        "n_unique_target_months": 12,
+        "coverage_tolerance_achieved_in_inner_cv": true,
+        "selection_basis": "inner forward CV; weighted coverage then normalized interval score with 1pct parsimony",
+        "selection_uses_probability_audit": false,
+        "selection_uses_terminal_holdout": false
+      },
+      "holdout_ensemble": {
+        "n": 24,
+        "RMSE_MW": 1541.539747563078,
+        "MAE_MW": 1251.1419059887337,
+        "WAPE_pct": 3.5470578899300693,
+        "sMAPE_pct": 3.6123463854774727,
+        "Bias_MW": -618.269514963224
+      },
+      "holdout_probability": {
+        "n": 24,
+        "PICP90_pct": 95.83333333333334,
+        "MPIW90_MW": 6164.733607088831,
+        "IntervalScore90_MW": 6208.447142049309,
+        "coverage_error_pp": 5.833333333333335,
+        "P50_RMSE_MW": 1498.45805009992,
+        "pinball_P5_MW": 179.1682829843497,
+        "pinball_P50_MW": 598.2765032571625,
+        "pinball_P95_MW": 131.2540741181159,
+        "CRPS_MW": 885.5151818106748,
+        "country": "SPAIN",
+        "phase": "terminal_holdout",
+        "variant": "SELECTED_BASELINE",
+        "origin": "2023-12-01T00:00:00",
+        "evaluation_role": "terminal_excluded_from_this_run_selection_previously_seen_in_project",
+        "below_P5_count": 1,
+        "above_P95_count": 0,
+        "n_unique_target_months": 24,
+        "n_origins": 1
+      },
+      "diagnostics": {
+        "country": "SPAIN",
+        "mc_simulations": 5000,
+        "n_future_months": 240,
+        "n_complete_future_years": 20,
+        "selected_probability_family": "HORIZON_SCALE",
+        "block_length": 6,
+        "scale": 1.0,
+        "min_simulation_MW": 26206.35225917243,
+        "max_simulation_MW": 45423.39972004942,
+        "nonpositive_simulations": 0,
+        "nonfinite_simulations": 0,
+        "nonpositive_deterministic_components": {
+          "LSTM": 0,
+          "LGBM": 0,
+          "TFT": 0
+        },
+        "uncertainty_after24": "horizon_argument24_plus_calendar_cycle",
+        "demand_target_changed": false,
+        "log_error_is_not_demand_differencing": true,
+        "demand_floor_applied": false,
+        "demand_cap_applied": false,
+        "official_electric_demand_forecast_used": false,
+        "fixed_demand_CAGR_used": false,
+        "independent_driver_uncertainty_added": false,
+        "country_joint_simulations_calibrated": false,
+        "annualization": "annual_maximum_per_simulation_then_quantiles_across_simulations",
+        "holdout_outcomes_in_probability_fit": false,
+        "holdout_never_seen_in_project": false,
+        "warnings": [
+          "Terminal empirical coverage outside 87-93%; not retuned on that block.",
+          "Few unique months in inner calibration validation; no claim of independent observations."
+        ]
+      },
+      "deterministic_source": {
+        "country": "SPAIN",
+        "mode": "VERIFIED_ARCHIVED_TRIAD_PATH_REUSE",
+        "source_run": "user supplied ARCHIVED_RESULTS_PACKAGE.zip",
+        "source_code_sha256": "65547ee5c0c2cda5e4f2f024ea79aabd3780e1a8970cfadaa31e3f6bbbe4dd36",
+        "core_sha256": "58d574246aa78cc20caf6f78d67b455ac0ffa6d5fafdcb6f3d97214f6409ef74",
+        "retrained_in_this_run": false,
+        "weights_recomputed_in_code": true,
+        "models": [
+          "LSTM",
+          "LGBM",
+          "TFT"
+        ]
+      }
+    }
+  },
+  "no_variant_reselected_after_holdout": true
+}
